@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# vscode e pycharm
+.idea/
+.vscode/
+
+# runserver windows
+runserver.bat
+pipenvsh.bat
+pipshexit.bat
